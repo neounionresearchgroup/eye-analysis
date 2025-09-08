@@ -1,0 +1,39 @@
+# exceptions
+!.gitignore
+!.github
+
+# dot files
+.*
+**/.*
+
+# files
+*.tar
+*.tar.*
+**/*.tar
+**/*.tar.*
+*.zip
+**/*.zip
+*.txt
+**/*.txt
+*.csv
+**/*.csv
+*.json
+**/*.json
+*.xml
+**/*.xml
+*.log
+**/*.log
+*.mp*
+**/*.mp*
+*.wav
+**/*.wav
+
+# directories
+sample/
+samples/
+example/
+examples/
+temp/
+tmp/
+data/
+dataset/
