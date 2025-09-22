@@ -37,6 +37,7 @@ temp/
 tmp/
 data/
 dataset/
+self/
 
 # --- Python ---
 __pycache__
